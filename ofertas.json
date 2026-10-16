@@ -5406,5 +5406,39 @@
     "status": "candidato",
     "fonte": "automatico",
     "criadoEm": "2026-10-14T11:56:31.000Z"
+  },
+  {
+    "nicho": "casamento / planejamento de eventos",
+    "pagina": "Construindo Noivas",
+    "promessa": "Método Completo de Planejamento de Casamento",
+    "link": "https://construindonoivas.vercel.app/",
+    "anunciosAtivos": 0,
+    "diasNoAr": 0,
+    "numAnunciantes": 0,
+    "precoOrigem": 0,
+    "formatoEntrega": "",
+    "categoria": "white",
+    "comoAchei": "WebSearch (extended), busca: site:lovable.app OR site:vercel.app \"oratória\" OR \"autoestima\" OR \"ansiedade\" guia pdf",
+    "observacao": "Encontrado só pelo título/snippet da busca; não foi possível abrir o link (egress bloqueado no ambiente). Preço, formato de entrega (PDF/planilha/curso) e demais campos não verificados — checar manualmente antes de aprovar.",
+    "status": "candidato",
+    "fonte": "automatico",
+    "criadoEm": "2026-10-16T11:58:07.000Z"
+  },
+  {
+    "nicho": "psicologia / autoconhecimento",
+    "pagina": "Avaliação Psicocomportamental Completa",
+    "promessa": "Quiz/avaliação psicocomportamental com exportação de relatório",
+    "link": "https://quizpsicocomportamental.vercel.app/",
+    "anunciosAtivos": 0,
+    "diasNoAr": 0,
+    "numAnunciantes": 0,
+    "precoOrigem": 0,
+    "formatoEntrega": "",
+    "categoria": "white",
+    "comoAchei": "WebSearch (extended), busca: site:lovable.app OR site:vercel.app \"oratória\" OR \"autoestima\" OR \"ansiedade\" guia pdf",
+    "observacao": "Pelo snippet parece ser um quiz que gera relatório em PDF, não um PDF estático — checar manualmente se o modelo de entrega e o preço se encaixam no critério de baixo ticket (R$10-97). Preço e demais campos não verificados.",
+    "status": "candidato",
+    "fonte": "automatico",
+    "criadoEm": "2026-10-16T11:58:07.000Z"
   }
 ]
