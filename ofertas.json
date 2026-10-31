@@ -7004,5 +7004,39 @@
     "status": "candidato",
     "fonte": "automatico",
     "criadoEm": "2026-10-30T11:55:00.000Z"
+  },
+  {
+    "nicho": "terceira idade / atividades e dinâmicas",
+    "pagina": "+500 Atividades e Dinâmicas Adaptadas para Idosos",
+    "promessa": "+500 atividades e dinâmicas adaptadas para idosos (pacote com vídeos e PDFs)",
+    "link": "https://mais500-atividades-para-idosos.lovable.app/",
+    "anunciosAtivos": 0,
+    "diasNoAr": 0,
+    "numAnunciantes": 0,
+    "precoOrigem": 0,
+    "formatoEntrega": "",
+    "categoria": "white",
+    "comoAchei": "WebSearch, busca: \"atividades pdf\" \"lovable.app\" comprar",
+    "observacao": "Snippet descreve pacote com 400+ vídeos e 100+ atividades em PDF (formato misto, não só PDF), sem preço visível. Preço, formato exato, anúncios ativos, dias no ar e anunciantes não verificados — checar manualmente.",
+    "status": "candidato",
+    "fonte": "automatico",
+    "criadoEm": "2026-10-31T11:55:00.000Z"
+  },
+  {
+    "nicho": "finanças pessoais / planejamento financeiro",
+    "pagina": "Planeje a sua Liberdade Financeira",
+    "promessa": "Guia prático de planejamento para liberdade financeira",
+    "link": "https://liberdade-financeira-guia-pratico.lovable.app/",
+    "anunciosAtivos": 0,
+    "diasNoAr": 0,
+    "numAnunciantes": 0,
+    "precoOrigem": 0,
+    "formatoEntrega": "",
+    "categoria": "white",
+    "comoAchei": "WebSearch, busca: \"planilha financeira\" \"por apenas\" R$ \"lovable.app\" OR \"vercel.app\" OR \"netlify.app\"",
+    "observacao": "Snippet mostra só o título da página (guia de planejamento financeiro), sem preço nem ângulo do anúncio visíveis. Checar manualmente se o ângulo é defensável (planejamento) ou sensacionalista (ganhar dinheiro fácil) antes de confirmar categoria 'white', além de preço e formato de entrega.",
+    "status": "candidato",
+    "fonte": "automatico",
+    "criadoEm": "2026-10-31T11:55:00.000Z"
   }
 ]
