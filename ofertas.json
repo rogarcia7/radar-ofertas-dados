@@ -9044,5 +9044,22 @@
     "status": "candidato",
     "fonte": "automatico",
     "criadoEm": "2026-11-23T00:00:00.000Z"
+  },
+  {
+    "nicho": "educação / artes",
+    "pagina": "Biblioteca de Dinâmicas de Artes",
+    "promessa": "250 dinâmicas criativas de artes prontas para aulas, com filtros por número de alunos e tipo de experiência desejada",
+    "link": "https://atividadedeartes.lovable.app/",
+    "anunciosAtivos": 0,
+    "diasNoAr": 0,
+    "numAnunciantes": 0,
+    "precoOrigem": 0,
+    "formatoEntrega": "",
+    "categoria": "white",
+    "comoAchei": "WebSearch (extended), busca: \"atividadedeartes.lovable.app\" OR \"Quebra-Cabeça Artístico\" kit atividades artes",
+    "observacao": "Preço, formato de entrega (pode ser biblioteca web interativa em vez de PDF/download), anúncios ativos, dias no ar e anunciantes não verificados — checar manualmente antes de aprovar.",
+    "status": "candidato",
+    "fonte": "automatico",
+    "criadoEm": "2026-11-25T11:56:42.000Z"
   }
 ]
