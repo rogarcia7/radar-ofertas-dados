@@ -9061,5 +9061,22 @@
     "status": "candidato",
     "fonte": "automatico",
     "criadoEm": "2026-11-25T11:56:42.000Z"
+  },
+  {
+    "nicho": "educação infantil / inglês",
+    "pagina": "Inglês de Giz",
+    "promessa": "200 atividades de inglês para imprimir, organizadas em 20 temas, para crianças de 4 a 8 anos",
+    "link": "https://ingles-de-giz.lovable.app/",
+    "anunciosAtivos": 0,
+    "diasNoAr": 0,
+    "numAnunciantes": 0,
+    "precoOrigem": 0,
+    "formatoEntrega": "",
+    "categoria": "white",
+    "comoAchei": "WebSearch, busca: \"atividades de inglês\" pdf vercel.app OR netlify.app site",
+    "observacao": "Achado via WebSearch, snippet confirma 200 atividades em 20 temas para crianças de 4 a 8 anos, prontas para imprimir. Formato de entrega (provavelmente PDF), preço, anúncios ativos, dias no ar e anunciantes não verificados — checar manualmente abrindo o link.",
+    "status": "candidato",
+    "fonte": "automatico",
+    "criadoEm": "2026-11-26T11:56:42.000Z"
   }
 ]
